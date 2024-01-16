@@ -48,3 +48,5 @@
 
 ``   c   c   c   c   c     a   a   a   a   a   a   a   a     c   c   c   c   c   ``  
 </sup>
+
+terminal game concept based on my [hanb](https://github.com/handyc/hanb) toy universe
